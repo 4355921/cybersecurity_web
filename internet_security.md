@@ -61,6 +61,96 @@
 </tbody>
 </table>
 <p>-Malware: worm, trojan, virus and spyware.</p>
+<div class="containersection aem-GridColumn aem-GridColumn--default--12">
+<div class="container-fluid   nospacingmargin blue-gradient grad1-sec text-center secureappservicebanner">
+<div class="container">
+<div class="certificate-container    ">
+<div class="row">
+<div class="col-md-10 col-sm-10 col-xs-10 col-md-offset-1 col-sm-offset-1 col-xs-offset-1 text-center">
+<h2 class="white_font ">What are Malware, Viruses, Spyware, and Cookies?<b></b></h2>
+<p class="white_font">Before you download anything from the Internet, be sure about it first.&nbsp;</p>
+</div>
+</div>
+<div class="clearfix none">
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="imageandtext aem-GridColumn aem-GridColumn--default--12">
+<div class="container-fluid componentouterspace  video-container white_bg">
+<div class="bg-color">
+<div class="container imgSpaceTopBoth">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 nospacingleft removeRightSpace">
+<div class="video-content">
+<h2 class="grey_font">What Differentiates Them?</h2>
+<div class="contentPara">
+<p class="grey_font"></p>
+<p><b>Malware</b></p>
+<p>"Malware"&nbsp;is short for malicious software and used as a single term to refer to virus, spy ware, worm etc. Malware is designed to cause damage to a stand-alone computer or a networked pc. So wherever a malware term is used it means a program which is designed to damage your computer it may be a virus, worm or Trojan.</p>
+<p>&nbsp;</p>
+<p><b>Virus</b></p>
+<p>Virus is a program written to enter to your computer and damage/alter your files/data. A virus might corrupt or delete data on your computer. Viruses can also replicate themselves. A computer Virus is more dangerous than a computer worm as it makes changes or deletes your files while worms only replicates itself with out making changes to your files/data.</p>
+<p><b>Examples of virus are:</b></p>
+<p><b>W32.Sfc!mod<br />ABAP.Rivpas.A<br />Accept.3773</b></p>
+<p>&nbsp;</p>
+<p>Viruses can enter to your computer as an attachment of images, greeting, or audio / video files. Viruses also enters through downloads on the Internet. They can be hidden in a free/trial softwares or other files that you download.</p>
+<p>&nbsp;</p>
+<p>So before you download anything from the internet, be sure about it first. Almost all viruses are attached to an executable file, which means the virus may exist on your computer but it actually cannot infect your computer unless you run or open the malicious program. It is important to note that a virus cannot be spread without a human action, such as running an infected program to keep it going.</p>
+<p></p>
+</div>
+<div class="colmLinkOuter no-left-space clearfix"></div>
+</div>
+<div class="colmLinkOuter no-left-space paddingLeft-zero clearfix"></div>
+<p class="more-link image-text-link link-margin"><a href="https://www.websecurity.digicert.com/security-topics/what-are-malware-viruses-spyware-and-cookies-and-what-differentiates-them#" target="_parent"></a></p>
+<span>&nbsp;</span>
+<p class="more-link image-text-link"><a href="https://www.websecurity.digicert.com/security-topics/what-are-malware-viruses-spyware-and-cookies-and-what-differentiates-them#" target="_parent"></a></p>
+</div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 video-section video-section-right nospacingright left-no-space ">
+<div class="imageSec">
+<div id="imageSection">
+<div class="video"><img src="https://www.websecurity.digicert.com/content/dam/websitesecurity/imagetextandtitle/Desktop/images/MalwareVirus-Article.jpg" class="img-responsive" title="Website Security" alt="Website Security" /></div>
+</div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 nospacingright left-no-space visible-md visible-lg hidden-xs hidden-sm"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="richtext aem-GridColumn aem-GridColumn--default--12">
+<div class="container-fluid textdescription lightest_grey_bg">
+<div class="container">
+<div class="c-textanddescription-outer">
+<div class="c-textAndDescription remove-padding-textanddesription">
+<div>
+<div class="c-propery-service-container clearfix">
+<div>
+<div class="columncontrol section">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 nospacingright">
+<div class="icontextandtitle page section">
+<div>
+<div>
+<div>
+<div class="c-icontextandtitleext matchHeight">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 <p>-Software and hardware to protect networks</p>
 <p>-Networks protocols: SSL, HTTPS, IPv6</p>
 <p>-Digital certificates and certificate authorities.</p>
