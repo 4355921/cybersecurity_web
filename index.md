@@ -1,4 +1,4 @@
-</style><h1 style="text-align: center;"><strong>HOME PAGE</strong></h1>
+<h1 style="text-align: center;"><strong>HOME PAGE</strong></h1>
 <h2 style="text-align: center;"><strong>All about cibersecurity.</strong></h2>
 <h3 id="tw-target-text" class="tw-data-text tw-text-large XcVN5d tw-ta" dir="ltr" data-placeholder="Traducci&oacute;n" style="text-align: center;"><span lang="en">These are the aspects that we are going to deal with</span></h3>
 <p style="text-align: center;"><span>▼ACCESIBILITY STANDARS</span></p>
