@@ -1,5 +1,5 @@
 <p><a href="https://4355921.github.io/cybersecurity_web/">Home</a></p>
-<p><a href="https://4355921.github.io/cybersecurity_web/accesibility_standars.htm">Accesibility standars</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/accesibility_standars.html">Accesibility standars</a></p>
 <p>-Difference between passive and active security threats.</p>
 <p>-Malware: worm, trojan, virus and spyware.</p>
 <p>-Software and hardware to protect networks</p>
