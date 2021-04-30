@@ -1,5 +1,3 @@
-<p><a href="https://4355921.github.io/cybersecurity_web/">Home</a></p>
-<p><a href="https://4355921.github.io/cybersecurity_web/internet_security.html">Internet security</a></p>
 <h2><span style="text-decoration: underline;">Web Content Accessibility Guidelines In 1999 the Web Accessibility</span></h2>
 <p>Initiative, a project by the World Wide Web Consortium (W3C), published the Web Content Accessibility Guidelines WCAG 1.0. On 11 December 2008, the WAI released the WCAG 2.0 as a Recommendation. WCAG 2.0 aims to be up to date and more technology neutral.</p>
 <p>Though web designers can choose either standard to follow, the WCAG 2.0 have been widely accepted as the definitive guidelines on how to create accessible websites. Governments are steadily adopting the WCAG 2.0 as the accessibility standard for their own websites.</p>
@@ -23,3 +21,5 @@
 <p><br /> Priority 1: Web developers must satisfy these requirements, otherwise it will be<br />impossible for one or more groups to access the Web content. Conformance to this<br />level is described as A.</p>
 <p><br /> Priority 2: Web developers should satisfy these requirements, otherwise some<br />groups will find it difficult to access the Web content. Conformance to this level is<br />described as AA or Double-A.</p>
 <p><br /> Priority 3: Web developers may satisfy these requirements to make it easier for<br />some groups to access the Web content. Conformance to this level is described<br />as AAA or Triple-A.</p>
+<p><a href="https://4355921.github.io/cybersecurity_web/">Home</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/internet_security.html">Internet security</a></p>
