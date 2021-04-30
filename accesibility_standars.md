@@ -23,3 +23,5 @@
 <p><br /> Priority 3: Web developers may satisfy these requirements to make it easier for<br />some groups to access the Web content. Conformance to this level is described<br />as AAA or Triple-A.</p>
 <p><a href="https://4355921.github.io/cybersecurity_web/">Home</a></p>
 <p><a href="https://4355921.github.io/cybersecurity_web/internet_security.html">Internet security</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/digital_signature.html">Digital Signature</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/oop_vs_sp.html">Object Oriented programming vs Structured Programming</a></p>
