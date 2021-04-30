@@ -70,3 +70,4 @@
 </dl>
 <p><a href="https://4355921.github.io/cybersecurity_web/">Home</a></p>
 <p><a href="https://4355921.github.io/cybersecurity_web/accesibility_standars.html">Accesibility standars</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/internet_security.html">Internet security</a></p>
