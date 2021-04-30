@@ -6,4 +6,4 @@
 <p style="text-align: center;"><span>▼INTERNET SECURITY</span></p>
 <p style="text-align: center;"><a href="https://4355921.github.io/cybersecurity_web/internet_security.html">Internet security</a></p>
 
-<p style="text-align: center;"><a href="https://4355921.github.io/cybersecurity_web/accesibility_standars.html">Accesibility standars</a></p>
+<p style="text-align: center;"><a href="https://4355921.github.io/cybersecurity_web/oop_vs_sp.html">Object Oriented Programming vs Structured Programming</a></p>
