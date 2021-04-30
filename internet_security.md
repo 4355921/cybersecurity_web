@@ -1,5 +1,3 @@
-<p><a href="https://4355921.github.io/cybersecurity_web/">Home</a></p>
-<p><a href="https://4355921.github.io/cybersecurity_web/accesibility_standars.html">Accesibility standars</a></p>
 <p>-Difference between passive and active security threats.</p>
 <p><b>Active Attacks:</b><br />Active attacks are the type of attacks in which, The attacker efforts to change or modify the content of messages. Active Attack is danger for Integrity as well as availability. Due to active attack system is always damaged and System resources can be changed. The most important thing is that, In active attack, Victim gets informed about the attack.</p>
 <p><br /><br /><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190521143059/Untitled-Diagram-261.png" width="603" height="348" class="aligncenter size-full" /><br /><br /></p>
@@ -298,3 +296,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-pQkHc82Yk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p><strong>This is the location of a cybersecurity company called Lab Top Sistems</strong></p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d25143.290814051932!2d-1.1536539836727593!3d38.025846077141836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sgoogle%20maps%20empresa%20ciberseguridad!5e0!3m2!1ses!2ses!4v1615503605046!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<p><a href="https://4355921.github.io/cybersecurity_web/">Home</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/accesibility_standars.html">Accesibility standars</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/oop_vs_sp.html">Object Oriented Programming vs Structured Programming</a></p>
