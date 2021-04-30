@@ -7,3 +7,5 @@
 <p style="text-align: center;"><a href="https://4355921.github.io/cybersecurity_web/internet_security.html">Internet security</a></p>
 <p style="text-align: center;"><span>▼OBJECT ORIENTED PROGRAMMING VS STRUCTURED PROGRAMMING</span></p>
 <p style="text-align: center;"><a href="https://4355921.github.io/cybersecurity_web/oop_vs_sp.html">Object Oriented Programming vs Structured Programming</a></p>
+<p style="text-align: center;"><span>▼DIGITAL SIGNATURE</span></p>
+<p style="text-align: center;"><a href="https://4355921.github.io/cybersecurity_web/digital_signature.html">Digital Signature</a></p>
