@@ -10,3 +10,6 @@
 <p class="section-subtitle">As an example, Jane signs an agreement to sell a timeshare using her private key. The buyer receives the document. The buyer who receives the document also receives a copy of Jane&rsquo;s public key. If the public key can&rsquo;t decrypt the signature (via the cipher from which the keys were created), it means the signature isn&rsquo;t Jane&rsquo;s, or has been changed since it was signed. The signature is then considered invalid.</p>
 <p class="section-subtitle">To protect the integrity of the signature, PKI requires that the keys be created, conducted, and saved in a secure manner, and often requires the services of a reliable Certificate Authgority. Digital signature providers, like DocuSign, meet PKI requirements for safe digital signing.</p>
 <p><img height="500" width="940" class="media-element file-default" data-delta="3" src="https://www.docusign.com/sites/default/files/ds_subpage_diagram2.svg" alt="" /></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/">Home</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/accesibility_standars.html">Accesibility standars</a></p>
+<p><a href="https://4355921.github.io/cybersecurity_web/oop_vs_sp.html">Object Oriented Programming vs Structured Programming</a></p>
