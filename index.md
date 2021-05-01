@@ -13,11 +13,10 @@
 <div class="cnt">
 <div class="info-content" data-more-text="Show more">
 <div class="info-description">
-
-<p>Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks<a></a><span>&nbsp;</span>are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.</p>
-
-<p>Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative.</p>
-</div>
+<blockquote>
+<h4>Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks<a></a><span>&nbsp;</span>are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.</h4>
+<h4>Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative.</h4>
+</blockquote></div>
 </div>
 </div>
 </div>
